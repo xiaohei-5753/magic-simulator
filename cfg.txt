@@ -1,0 +1,5 @@
+128 128
+Microsoft YaHei
+0x111111
+0xDEDEDE
+0.5
